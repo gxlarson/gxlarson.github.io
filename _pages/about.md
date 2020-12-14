@@ -11,10 +11,20 @@ redirect_from:
 Publications
 ======
 
-#### An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction
+### 1. Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods
 Stefan Larson
-EMNLP
+COLING 2020
 
-#### Outlier Detection for Improved Data Quality and Diversity in Dialog Systems
+### 2. Iterative Constraint based feature mining
 Stefan Larson
-NAACL
+EMNLP 2020
+
+### Corpus tools
+
+### An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction
+Stefan Larson
+EMNLP 2019
+
+### Outlier Detection for Improved Data Quality and Diversity in Dialog Systems
+Stefan Larson
+NAACL 2019
