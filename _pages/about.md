@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Education
-=====
-### MSE Electrical and Computer Engineering - University of Michigan
-### BSE Computer Engineering - University of Michigan
-
 Publications
 ======
 
@@ -46,3 +41,8 @@ US Patent No. 10,679,150; 2020
 
 ### 2. [Systems and Methods for Constructing an Artificially Diverse Corpus of Training Data Samples for Training a Contextually-Biased Model for a Machine Learning-Based Dialogue System](https://patentimages.storage.googleapis.com/9c/bc/cc/d0aab108fb0cd7/US10796104.pdf)
 US Patent No. 10,796,104; 2020
+
+Education
+=====
+### MSE Electrical and Computer Engineering - University of Michigan
+### BSE Computer Engineering - University of Michigan
