@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Education
+=====
+### MSE Electrical and Computer Engineering - University of Michigan
+### BSE Computer Engineering - University of Michigan
+
 Publications
 ======
 
