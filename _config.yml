@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stefan Larson / Site Title"
+title                    : "Stefan Larson"
 title_separator          : "-"
 name                     : &name "Stefan Larson"
 description              : &description "personal description"
