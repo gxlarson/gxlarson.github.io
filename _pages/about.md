@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Interests
+=====
+I believe an AI system can't be called "intelligent" unless it can correctly handle the multitude of ways in which human users can interact with it. Understanding where and when an AI system will fail is not an easy task, and I am interested in ways to identify potential system mistakes before they happen. This entails developing methods for uncovering bias in datasets, developing techniques to generate challenging test cases, developing algorithms to uncover annotation mistakes, etc.
+
 Publications
 ======
 
@@ -33,6 +37,8 @@ NAACL 2019
 
 Datasets
 =====
+### [OOS Intent Classification Dataset](https://github.com/clinc/oos-eval/)
+This dataset targets the task of intent classification. It contains 150 "in-scope" system-supported intents across 10 domain areas, and notably includes a substantial number of "out-of-scope" samples to test out-of-distribution detection performance.
 
 Patents
 =====
