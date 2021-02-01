@@ -15,7 +15,7 @@ I believe an AI system can't be called "intelligent" unless it can correctly han
 Publications
 ======
 
-### 1. LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction
+### 1. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://arxiv.org/pdf/2101.11177.pdf)
 Jacob Solawetz, <u>Stefan Larson</u><br>
 EACL 2021 (to appear)
 
