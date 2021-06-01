@@ -15,9 +15,9 @@ I believe an AI system can't be called "intelligent" unless it can correctly han
 Publications
 ======
 
-### 1. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://arxiv.org/pdf/2101.11177.pdf)
+### 1. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://www.aclweb.org/anthology/2021.eacl-main.222.pdf)
 Jacob Solawetz, <u>Stefan Larson</u><br>
-EACL 2021 (to appear)
+EACL 2021
 
 ### 2. [Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods](https://www.aclweb.org/anthology/2020.coling-main.442.pdf)
 <u>Stefan Larson</u>, Adrian Cheung, Anish Mahendran, Kevin Leach, Jonathan K. Kummerfeld<br>
@@ -46,11 +46,14 @@ This dataset targets the task of intent classification. It contains 150 "in-scop
 
 Patents
 =====
-### 1. [Systems and Methods for Automatically Configuring Training Data for Training Machine Learning Models of a Machine Learning-Based Dialogue System Including Seeding Training Samples or Curating a Corpus of Training Data Based on Instances of Training Data Identified as Anomalous](https://patentimages.storage.googleapis.com/a2/69/91/08ef4792e92a6f/US10679150.pdf)
-US Patent No. 10,679,150; 2020
+### 1. [Systems and Methods for Automatically Detecting and Repairing Slot Errors in Machine Learning Training Data for a Machine Learning-Based Dialogue System](https://patentimages.storage.googleapis.com/a2/a3/c3/07945e15607d2e/US10929761.pdf)
+US Patent No. 10,929,761; 2021
 
 ### 2. [Systems and Methods for Constructing an Artificially Diverse Corpus of Training Data Samples for Training a Contextually-Biased Model for a Machine Learning-Based Dialogue System](https://patentimages.storage.googleapis.com/9c/bc/cc/d0aab108fb0cd7/US10796104.pdf)
 US Patent No. 10,796,104; 2020
+
+### 3. [Systems and Methods for Automatically Configuring Training Data for Training Machine Learning Models of a Machine Learning-Based Dialogue System Including Seeding Training Samples or Curating a Corpus of Training Data Based on Instances of Training Data Identified as Anomalous](https://patentimages.storage.googleapis.com/a2/69/91/08ef4792e92a6f/US10679150.pdf)
+US Patent No. 10,679,150; 2020
 
 Education
 =====
