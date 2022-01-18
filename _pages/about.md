@@ -14,9 +14,9 @@ I believe an AI system can't be called "intelligent" unless it can correctly han
 
 Education
 =====
-### PhD Computer Science - Vanderbilt University (ongoing)
-### MSE Electrical and Computer Engineering - University of Michigan
-### BSE Computer Engineering - University of Michigan
+#### PhD Computer Science - Vanderbilt University (ongoing)
+#### MSE Electrical and Computer Engineering - University of Michigan
+#### BSE Computer Engineering - University of Michigan
 
 Publications
 ======
