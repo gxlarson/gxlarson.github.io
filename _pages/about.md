@@ -12,6 +12,12 @@ Interests
 =====
 I believe an AI system can't be called "intelligent" unless it can correctly handle the multitude of ways in which human users can interact with it. The road to this point is a long one, and entails understanding where and when an AI system will fail, so that we can identify potential system mistakes before they happen. This entails developing methods for uncovering bias in both models and datasets, developing techniques to generate challenging test cases, developing algorithms to uncover annotation mistakes, developing better evaluation metrics, etc.
 
+Education
+=====
+### PhD Computer Science - Vanderbilt University (ongoing)
+### MSE Electrical and Computer Engineering - University of Michigan
+### BSE Computer Engineering - University of Michigan
+
 Publications
 ======
 
@@ -50,19 +56,17 @@ This dataset targets the task of intent classification. It contains 150 "in-scop
 
 Patents
 =====
-### 1. [Systems and Methods for Mixed Setting Training for Slot Filling Machine Learning Tasks in aMachine Learning Task-Oriented Dialogue System](https://patentimages.storage.googleapis.com/58/04/ca/64d304fdb8b3f0/US11043208.pdf)
+### 1. [Systems and Methods Implementing Data Query Language and Utterance Corpus Implements for Handling Slot-Filling and Dialogue Intent Classification Data in a Machine Learning Task-Oriented Dialogue System](https://patentimages.storage.googleapis.com/75/3b/1d/2c755659ef578d/US11183175.pdf)
+US Patent No. 11,183,175
+
+### 2. [Systems and Methods for Mixed Setting Training for Slot Filling Machine Learning Tasks in a Machine Learning Task-Oriented Dialogue System](https://patentimages.storage.googleapis.com/58/04/ca/64d304fdb8b3f0/US11043208.pdf)
 US Patent No. 11,043,208; 2021
 
-### 2. [Systems and Methods for Automatically Detecting and Repairing Slot Errors in Machine Learning Training Data for a Machine Learning-Based Dialogue System](https://patentimages.storage.googleapis.com/a2/a3/c3/07945e15607d2e/US10929761.pdf)
+### 3. [Systems and Methods for Automatically Detecting and Repairing Slot Errors in Machine Learning Training Data for a Machine Learning-Based Dialogue System](https://patentimages.storage.googleapis.com/a2/a3/c3/07945e15607d2e/US10929761.pdf)
 US Patent No. 10,929,761; 2021
 
-### 3. [Systems and Methods for Constructing an Artificially Diverse Corpus of Training Data Samples for Training a Contextually-Biased Model for a Machine Learning-Based Dialogue System](https://patentimages.storage.googleapis.com/9c/bc/cc/d0aab108fb0cd7/US10796104.pdf)
+### 4. [Systems and Methods for Constructing an Artificially Diverse Corpus of Training Data Samples for Training a Contextually-Biased Model for a Machine Learning-Based Dialogue System](https://patentimages.storage.googleapis.com/9c/bc/cc/d0aab108fb0cd7/US10796104.pdf)
 US Patent No. 10,796,104; 2020
 
-### 4. [Systems and Methods for Automatically Configuring Training Data for Training Machine Learning Models of a Machine Learning-Based Dialogue System Including Seeding Training Samples or Curating a Corpus of Training Data Based on Instances of Training Data Identified as Anomalous](https://patentimages.storage.googleapis.com/a2/69/91/08ef4792e92a6f/US10679150.pdf)
+### 5. [Systems and Methods for Automatically Configuring Training Data for Training Machine Learning Models of a Machine Learning-Based Dialogue System Including Seeding Training Samples or Curating a Corpus of Training Data Based on Instances of Training Data Identified as Anomalous](https://patentimages.storage.googleapis.com/a2/69/91/08ef4792e92a6f/US10679150.pdf)
 US Patent No. 10,679,150; 2020
-
-Education
-=====
-### MSE Electrical and Computer Engineering - University of Michigan
-### BSE Computer Engineering - University of Michigan
