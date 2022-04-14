@@ -49,6 +49,12 @@ EMNLP 2019
 <u>Stefan Larson</u>, Anish Mahendran, Andrew Lee, Jonathan K. Kummerfeld, Parker Hill, Michael A. Laurenzano, Johann Hauswald, Lingjia Tang, Jason Mars<br>
 NAACL 2019
 
+Preprints
+=====
+### 1. [Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset](https://arxiv.org/pdf/2204.05483.pdf)
+<u>Stefan Larson</u>, Kevin Leach<br>
+ArXiv preprint, 2022
+
 Datasets
 =====
 ### [OOS Intent Classification Dataset](https://github.com/clinc/oos-eval/)
