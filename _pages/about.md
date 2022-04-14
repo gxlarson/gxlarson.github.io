@@ -17,6 +17,7 @@ Education
 #### PhD Computer Science - Vanderbilt University (ongoing)
 #### MSE Electrical and Computer Engineering - University of Michigan
 #### BSE Computer Engineering - University of Michigan
+<br>
 
 Publications
 ======
