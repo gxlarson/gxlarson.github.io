@@ -22,7 +22,7 @@ Education
 Preprints
 =====
 
-### 1. [A survey of Datasets for Intent Classification and Slot-Filling for Task-Oriented Dialog](https://arxiv.org/pdf/2207.13211.pdf)
+### 1. [A Survey of Datasets for Intent Classification and Slot-Filling for Task-Oriented Dialog](https://arxiv.org/pdf/2207.13211.pdf)
 <u>Stefan Larson</u>, Kevin Leach<br>
 arXiv preprint, 2022
 
