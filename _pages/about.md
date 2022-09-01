@@ -19,10 +19,14 @@ Education
 #### BSE Computer Engineering - University of Michigan
 <br>
 
-Preprints
+Preprints 2208.14558
 =====
 
-### 1. [A Survey of Datasets for Intent Classification and Slot-Filling for Task-Oriented Dialog](https://arxiv.org/pdf/2207.13211.pdf)
+### 1. [Augraphy: A Data Augmentation Library for Document Images](https://arxiv.org/pdf/2208.14558.pdf)
+Samay Maini, Alexander Groleau, Kok Wei Chee, <u>Stefan Larson</u>, Jonathan Boarman<br>
+arXiv preprint, 2022
+
+### 2. [A Survey of Datasets for Intent Classification and Slot-Filling for Task-Oriented Dialog](https://arxiv.org/pdf/2207.13211.pdf)
 <u>Stefan Larson</u>, Kevin Leach<br>
 arXiv preprint, 2022
 
