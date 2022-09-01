@@ -19,7 +19,7 @@ Education
 #### BSE Computer Engineering - University of Michigan
 <br>
 
-Preprints 2208.14558
+Preprints
 =====
 
 ### 1. [Augraphy: A Data Augmentation Library for Document Images](https://arxiv.org/pdf/2208.14558.pdf)
