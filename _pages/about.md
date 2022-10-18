@@ -33,7 +33,7 @@ arXiv preprint, 2022
 Publications
 ======
 
-### 1. Evaluating Out-of-Distribution Performance on Document Image Classifiers
+### 1. [Evaluating Out-of-Distribution Performance on Document Image Classifiers](https://arxiv.org/pdf/2210.07448.pdf)
 <u>Stefan Larson</u>, Gordon Lim, Yutong Ai, David Kuang, Kevin Leach<br>
 NeurIPS D&B, 2022 (to appear)
 
