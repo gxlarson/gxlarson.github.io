@@ -33,39 +33,43 @@ arXiv preprint, 2022
 Publications
 ======
 
-### 1. [Evaluating Out-of-Distribution Performance on Document Image Classifiers](https://arxiv.org/pdf/2210.07448.pdf)
+### 1. [On Evaluation of Document Classifiers using RVL-CDIP]
+<u>Stefan Larson</u>, Gordon Lim, Kevin Leach<br>
+EACL 2023 (to appear)
+
+### 2. [Evaluating Out-of-Distribution Performance on Document Image Classifiers](https://arxiv.org/pdf/2210.07448.pdf)
 <u>Stefan Larson</u>, Gordon Lim, Yutong Ai, David Kuang, Kevin Leach<br>
-NeurIPS D&B, 2022 (to appear)
+NeurIPS D&B 2022
 
-### 2. [Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset](https://arxiv.org/pdf/2204.05483.pdf)
+### 3. [Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset](https://arxiv.org/pdf/2204.05483.pdf)
 <u>Stefan Larson</u>, Kevin Leach<br>
-SIGDIAL, 2022
+SIGDIAL 2022
 
-### 3. [Exploring Out-of-Distribution Generalization in Text Classifiers Trained on Tobacco-3482 and RVL-CDIP](https://arxiv.org/pdf/2108.02684.pdf)
+### 4. [Exploring Out-of-Distribution Generalization in Text Classifiers Trained on Tobacco-3482 and RVL-CDIP](https://arxiv.org/pdf/2108.02684.pdf)
 <u>Stefan Larson</u>, Navtej Singh, Saarthak Maheshwari, Shanti Stewart, Uma Krishnaswamy<br>
 Document Images and Language Workshop (DIL) at ICDAR 2021
 
-### 4. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://www.aclweb.org/anthology/2021.eacl-main.222.pdf)
+### 5. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://www.aclweb.org/anthology/2021.eacl-main.222.pdf)
 Jacob Solawetz, <u>Stefan Larson</u><br>
 EACL 2021
 
-### 5. [Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods](https://www.aclweb.org/anthology/2020.coling-main.442.pdf)
+### 6. [Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods](https://www.aclweb.org/anthology/2020.coling-main.442.pdf)
 <u>Stefan Larson</u>, Adrian Cheung, Anish Mahendran, Kevin Leach, Jonathan K. Kummerfeld<br>
 COLING 2020
 
-### 6. [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness](https://www.aclweb.org/anthology/2020.emnlp-main.650.pdf)
+### 7. [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness](https://www.aclweb.org/anthology/2020.emnlp-main.650.pdf)
 <u>Stefan Larson</u>, Anthony Zheng, Anish Mahendran, Rishi Tekriwal, Adrian Cheung, Eric Guldan, Kevin Leach, Jonathan K. Kummerfeld<br>
 EMNLP 2020
 
-### 7. [Data Query Language and Corpus Tools for Slot-Filling and Intent Classification Datasets](https://www.aclweb.org/anthology/2020.lrec-1.873.pdf)
+### 8. [Data Query Language and Corpus Tools for Slot-Filling and Intent Classification Datasets](https://www.aclweb.org/anthology/2020.lrec-1.873.pdf)
 <u>Stefan Larson</u>, Eric Guldan, Kevin Leach<br>
 LREC 2020
 
-### 8. [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://www.aclweb.org/anthology/D19-1131.pdf)
+### 9. [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://www.aclweb.org/anthology/D19-1131.pdf)
 <u>Stefan Larson</u>, Anish Mahendran, Joseph J. Peper, Christopher Clarke, Andrew Lee, Parker Hill, Kevin Leach, Jonathan K. Kummerfeld, Michael A. Laurenzano, Lingjia Tang, Jason Mars<br>
 EMNLP 2019
 
-### 9. [Outlier Detection for Improved Data Quality and Diversity in Dialog Systems](https://www.aclweb.org/anthology/N19-1051.pdf)
+### 10. [Outlier Detection for Improved Data Quality and Diversity in Dialog Systems](https://www.aclweb.org/anthology/N19-1051.pdf)
 <u>Stefan Larson</u>, Anish Mahendran, Andrew Lee, Jonathan K. Kummerfeld, Parker Hill, Michael A. Laurenzano, Johann Hauswald, Lingjia Tang, Jason Mars<br>
 NAACL 2019
 
