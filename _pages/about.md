@@ -33,7 +33,7 @@ arXiv preprint, 2022
 Publications
 ======
 
-### 1. [On Evaluation of Document Classifiers using RVL-CDIP]
+### 1. On Evaluation of Document Classifiers using RVL-CDIP
 <u>Stefan Larson</u>, Gordon Lim, Kevin Leach<br>
 EACL 2023 (to appear)
 
