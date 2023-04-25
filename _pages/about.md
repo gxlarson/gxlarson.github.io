@@ -45,7 +45,7 @@ EACL 2023 (to appear)
 <u>Stefan Larson</u>, Gordon Lim, Yutong Ai, David Kuang, Kevin Leach<br>
 NeurIPS D&B 2022
 
-### 4. [Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset](https://arxiv.org/pdf/2204.05483.pdf)
+### 4. [Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset](https://aclanthology.org/2022.sigdial-1.45.pdf)
 <u>Stefan Larson</u>, Kevin Leach<br>
 SIGDIAL 2022
 
