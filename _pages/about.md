@@ -37,9 +37,9 @@ Publications
 Alexander Groleau, Kok Wei Chee, <u>Stefan Larson</u>, Samay Maini, Jonathan Boarman<br>
 ICDAR 2023 (to appear)
 
-### 2. On Evaluation of Document Classifiers using RVL-CDIP
+### 2. [On Evaluation of Document Classifiers using RVL-CDIP](https://aclanthology.org/2023.eacl-main.195.pdf)
 <u>Stefan Larson</u>, Gordon Lim, Kevin Leach<br>
-EACL 2023 (to appear)
+EACL 2023
 
 ### 3. [Evaluating Out-of-Distribution Performance on Document Image Classifiers](https://arxiv.org/pdf/2210.07448.pdf)
 <u>Stefan Larson</u>, Gordon Lim, Yutong Ai, David Kuang, Kevin Leach<br>
