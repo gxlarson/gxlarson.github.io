@@ -80,7 +80,7 @@ NAACL 2019
 Datasets
 =====
 ### [OOD data for RVL-CDIP](https://github.com/gxlarson/RVL-CDIP-OOD)
-This colleciton is a companion dataset for RVL-CDIP, a popular document image classification benchmark. RVL-CDIP-N includes in-domain, out-of-distribution data. RVL-CDIP-O includes out-of-domain, out-of-distribution data. Both -O and -N datasets consist of documents found on DocumentCloud and websearch (e.g., Google and Bing).
+This colleciton is a companion dataset for [RVL-CDIP](https://huggingface.co/datasets/aharley/rvl_cdip), a popular document image classification benchmark. RVL-CDIP-N includes in-domain, out-of-distribution data. RVL-CDIP-O includes out-of-domain, out-of-distribution data. Both -O and -N datasets consist of documents found on DocumentCloud and websearch (e.g., Google and Bing).
 
 ### [OOS Intent Classification Dataset](https://github.com/clinc/oos-eval/)
 This dataset targets the task of intent classification. It contains 150 "in-scope" system-supported intents across 10 domain areas, and notably includes a substantial number of "out-of-scope" samples to test out-of-distribution detection performance.
