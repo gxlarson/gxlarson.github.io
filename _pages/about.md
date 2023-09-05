@@ -35,7 +35,7 @@ Publications
 
 ### 1. [Augraphy: A Data Augmentation Library for Document Images](https://arxiv.org/pdf/2208.14558.pdf)
 Alexander Groleau, Kok Wei Chee, <u>Stefan Larson</u>, Samay Maini, Jonathan Boarman<br>
-ICDAR 2023 (to appear)
+ICDAR 2023
 
 ### 2. [On Evaluation of Document Classification using RVL-CDIP](https://aclanthology.org/2023.eacl-main.195.pdf)
 <u>Stefan Larson</u>, Gordon Lim, Kevin Leach<br>
