@@ -33,7 +33,7 @@ arXiv preprint, 2022
 Publications
 ======
 
-### 1. [Generating Hard-Negative Out-of-Scope Data with ChatGPT for Intent Classification](https://arxiv.org/pdf/2403.05640.pdf)
+### 1. [Generating Hard-Negative Out-of-Scope Data with ChatGPT for Intent Classification](https://aclanthology.org/2024.lrec-main.674.pdf)
 Zhijian Li, <u>Stefan Larson</u>, Kevin Leach<br>
 LREC-COLING 2024
 
