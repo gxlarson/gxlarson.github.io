@@ -22,11 +22,15 @@ Education
 Preprints
 =====
 
-### 1. [ShabbyPages: A Reproducible Document Denoising and Binarization Dataset](https://arxiv.org/pdf/2303.09339.pdf)
+### 1. [Document Type Classification using File Names](https://arxiv.org/pdf/2410.01166)
+Zhijian Li, <u>Stefan Larson</u>, Kevin Leach
+arXiv preprint, 2024
+
+### 2. [ShabbyPages: A Reproducible Document Denoising and Binarization Dataset](https://arxiv.org/pdf/2303.09339.pdf)
 Alexander Groleau, Kok Wei Chee, <u>Stefan Larson</u>, Samay Maini, Jonathan Boarman<br>
 arXiv preprint, 2023
 
-### 2. [A Survey of Datasets for Intent Classification and Slot-Filling for Task-Oriented Dialog](https://arxiv.org/pdf/2207.13211.pdf)
+### 3. [A Survey of Datasets for Intent Classification and Slot-Filling for Task-Oriented Dialog](https://arxiv.org/pdf/2207.13211.pdf)
 <u>Stefan Larson</u>, Kevin Leach<br>
 arXiv preprint, 2022
 
