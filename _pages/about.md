@@ -23,7 +23,7 @@ Preprints
 =====
 
 ### 1. [Document Type Classification using File Names](https://arxiv.org/pdf/2410.01166)
-Zhijian Li, <u>Stefan Larson</u>, Kevin Leach
+Zhijian Li, <u>Stefan Larson</u>, Kevin Leach<br>
 arXiv preprint, 2024
 
 ### 2. [ShabbyPages: A Reproducible Document Denoising and Binarization Dataset](https://arxiv.org/pdf/2303.09339.pdf)
