@@ -37,7 +37,7 @@ arXiv preprint, 2022
 Publications
 ======
 
-### 1. De-Identification of Sensitive Personal Data in Datasets Derived from IIT-CDIP
+### 1. [De-Identification of Sensitive Personal Data in Datasets Derived from IIT-CDIP](https://aclanthology.org/2024.emnlp-main.1198.pdf)
 <u>Stefan Larson</u>, Nicole Cornehl Lima, Santiago Pedroza Diaz, Amogh Manoj Joshi, Siddharth Betala, Jamiu Tunde Suleiman, Yash Mathur, Kaushal Kumar Prajapati, Ramla Alakraa, Junjie Shen, Temi Okotore, Kevin Leach<br>
 EMNLP 2024
 
