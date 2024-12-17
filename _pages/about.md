@@ -37,7 +37,7 @@ arXiv preprint, 2022
 Publications
 ======
 
-### 1. [Label Errors in the Tobacco3482 Dataset]
+### 1. Label Errors in the Tobacco3482 Dataset
 Gordon Lim, <u>Stefan Larson</u>, Kevin Leach<br>
 WACV VisionDocs Workshop 2025 (to appear)
 
