@@ -39,7 +39,7 @@ Publications
 
 ### 1. Label Errors in the Tobacco3482 Dataset
 Gordon Lim, <u>Stefan Larson</u>, Kevin Leach<br>
-WACV VisionDocs Workshop 2025 (to appear)
+WACV VisionDocs Workshop 2025
 
 ### 2. [Robust Testing for Deep Learning using Human Label Noise](https://arxiv.org/pdf/2412.00244)
 Gordon Lim, <u>Stefan Larson</u>, Kevin Leach<br>
@@ -73,27 +73,27 @@ SIGDIAL 2022
 <u>Stefan Larson</u>, Navtej Singh, Saarthak Maheshwari, Shanti Stewart, Uma Krishnaswamy<br>
 Document Images and Language Workshop (DIL) at ICDAR 2021
 
-### 10. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://www.aclweb.org/anthology/2021.eacl-main.222.pdf)
+### 10. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://aclanthology.org/2021.eacl-main.222.pdf)
 Jacob Solawetz, <u>Stefan Larson</u><br>
 EACL 2021
 
-### 11. [Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods](https://www.aclweb.org/anthology/2020.coling-main.442.pdf)
+### 11. [Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods](https://aclanthology.org/2020.coling-main.442.pdf)
 <u>Stefan Larson</u>, Adrian Cheung, Anish Mahendran, Kevin Leach, Jonathan K. Kummerfeld<br>
 COLING 2020
 
-### 12. [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness](https://www.aclweb.org/anthology/2020.emnlp-main.650.pdf)
+### 12. [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness](https://aclanthology.org/2020.emnlp-main.650.pdf)
 <u>Stefan Larson</u>, Anthony Zheng, Anish Mahendran, Rishi Tekriwal, Adrian Cheung, Eric Guldan, Kevin Leach, Jonathan K. Kummerfeld<br>
 EMNLP 2020
 
-### 13. [Data Query Language and Corpus Tools for Slot-Filling and Intent Classification Datasets](https://www.aclweb.org/anthology/2020.lrec-1.873.pdf)
+### 13. [Data Query Language and Corpus Tools for Slot-Filling and Intent Classification Datasets](https://aclanthology.org/2020.lrec-1.873.pdf)
 <u>Stefan Larson</u>, Eric Guldan, Kevin Leach<br>
 LREC 2020
 
-### 14. [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://www.aclweb.org/anthology/D19-1131.pdf)
+### 14. [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://aclanthology.org/D19-1131.pdf)
 <u>Stefan Larson</u>, Anish Mahendran, Joseph J. Peper, Christopher Clarke, Andrew Lee, Parker Hill, Kevin Leach, Jonathan K. Kummerfeld, Michael A. Laurenzano, Lingjia Tang, Jason Mars<br>
 EMNLP 2019
 
-### 15. [Outlier Detection for Improved Data Quality and Diversity in Dialog Systems](https://www.aclweb.org/anthology/N19-1051.pdf)
+### 15. [Outlier Detection for Improved Data Quality and Diversity in Dialog Systems](https://aclanthology.org/N19-1051.pdf)
 <u>Stefan Larson</u>, Anish Mahendran, Andrew Lee, Jonathan K. Kummerfeld, Parker Hill, Michael A. Laurenzano, Johann Hauswald, Lingjia Tang, Jason Mars<br>
 NAACL 2019
 
