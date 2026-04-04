@@ -43,7 +43,7 @@ WACV VisionDocs Workshop 2025
 
 ### 2. [Robust Testing for Deep Learning using Human Label Noise](https://arxiv.org/pdf/2412.00244)
 Gordon Lim, <u>Stefan Larson</u>, Kevin Leach<br>
-DeepTest 2025 (to appear)
+DeepTest 2025
 
 ### 3. [De-Identification of Sensitive Personal Data in Datasets Derived from IIT-CDIP](https://aclanthology.org/2024.emnlp-main.1198.pdf)
 <u>Stefan Larson</u>, Nicole Cornehl Lima, Santiago Pedroza Diaz, Amogh Manoj Joshi, Siddharth Betala, Jamiu Tunde Suleiman, Yash Mathur, Kaushal Kumar Prajapati, Ramla Alakraa, Junjie Shen, Temi Okotore, Kevin Leach<br>
