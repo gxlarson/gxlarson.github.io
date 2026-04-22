@@ -19,83 +19,91 @@ Education
 #### BSE Computer Engineering - University of Michigan
 <br>
 
-Preprints
-=====
-
-### 1. [Document Type Classification using File Names](https://arxiv.org/pdf/2410.01166)
-Zhijian Li, <u>Stefan Larson</u>, Kevin Leach<br>
-arXiv preprint, 2024
-
-### 2. [ShabbyPages: A Reproducible Document Denoising and Binarization Dataset](https://arxiv.org/pdf/2303.09339.pdf)
-Alexander Groleau, Kok Wei Chee, <u>Stefan Larson</u>, Samay Maini, Jonathan Boarman<br>
-arXiv preprint, 2023
-
-### 3. [A Survey of Datasets for Intent Classification and Slot-Filling for Task-Oriented Dialog](https://arxiv.org/pdf/2207.13211.pdf)
-<u>Stefan Larson</u>, Kevin Leach<br>
-arXiv preprint, 2022
-
 Publications
 ======
 
-### 1. [Label Errors in the Tobacco3482 Dataset](https://arxiv.org/pdf/2412.13140)
+### 1. [Towards Fair Pay and Equal Work: Imposing View Time Limits in Crowdsourced Image Classification](https://arxiv.org/pdf/2412.00260)
+Gordon Lim, <u>Stefan Larson</u>, Yu Huang, Kevin Leach
+FLAIRS 2026
+
+### 2. [Spurious Cues in RVL-CDIP and Tobacco3482 Document Classification: The Case of ID Codes](https://dl.acm.org/doi/pdf/10.1145/3704268.3748683?__cf_chl_tk=RYokQCfFwQ4OUOb0rEO.x6M.9n6tZhMK0UEU2fkMllk-1776818218-1.0.1.1-8Nsh2_Zj4kQmI83gzgNAX.4Cd9fyfbFeDoB_i6vEMEE)
+<u>Stefan Larson</u>, Sharad Duwal, Brian Vilnrotter, Gayatri Chakkithara, Vedant Pedwal, Kevin Leach
+ACM Symposium on Document Engineering (DocEng) 2025
+
+### 3. [Document Type Classification using File Names](https://arxiv.org/pdf/2410.01166)
+Zhijian Li, <u>Stefan Larson</u>, Kevin Leach<br>
+ACM Symposium on Document Engineering (DocEng) 2025
+
+### 4. [Label Errors in the Tobacco3482 Dataset](https://arxiv.org/pdf/2412.13140)
 Gordon Lim, <u>Stefan Larson</u>, Kevin Leach<br>
 WACV VisionDocs Workshop 2025
 
-### 2. [Robust Testing for Deep Learning using Human Label Noise](https://arxiv.org/pdf/2412.00244)
+### 5. [Robust Testing for Deep Learning using Human Label Noise](https://arxiv.org/pdf/2412.00244)
 Gordon Lim, <u>Stefan Larson</u>, Kevin Leach<br>
 DeepTest 2025
 
-### 3. [De-Identification of Sensitive Personal Data in Datasets Derived from IIT-CDIP](https://aclanthology.org/2024.emnlp-main.1198.pdf)
+### 6. [De-Identification of Sensitive Personal Data in Datasets Derived from IIT-CDIP](https://aclanthology.org/2024.emnlp-main.1198.pdf)
 <u>Stefan Larson</u>, Nicole Cornehl Lima, Santiago Pedroza Diaz, Amogh Manoj Joshi, Siddharth Betala, Jamiu Tunde Suleiman, Yash Mathur, Kaushal Kumar Prajapati, Ramla Alakraa, Junjie Shen, Temi Okotore, Kevin Leach<br>
 EMNLP 2024
 
-### 4. [Generating Hard-Negative Out-of-Scope Data with ChatGPT for Intent Classification](https://aclanthology.org/2024.lrec-main.674.pdf)
+### 7. [Generating Hard-Negative Out-of-Scope Data with ChatGPT for Intent Classification](https://aclanthology.org/2024.lrec-main.674.pdf)
 Zhijian Li, <u>Stefan Larson</u>, Kevin Leach<br>
 LREC-COLING 2024
 
-### 5. [Augraphy: A Data Augmentation Library for Document Images](https://arxiv.org/pdf/2208.14558.pdf)
+### 8. [Augraphy: A Data Augmentation Library for Document Images](https://arxiv.org/pdf/2208.14558.pdf)
 Alexander Groleau, Kok Wei Chee, <u>Stefan Larson</u>, Samay Maini, Jonathan Boarman<br>
 ICDAR 2023
 
-### 6. [On Evaluation of Document Classification using RVL-CDIP](https://aclanthology.org/2023.eacl-main.195.pdf)
+### 9. [On Evaluation of Document Classification using RVL-CDIP](https://aclanthology.org/2023.eacl-main.195.pdf)
 <u>Stefan Larson</u>, Gordon Lim, Kevin Leach<br>
 EACL 2023
 
-### 7. [Evaluating Out-of-Distribution Performance on Document Image Classifiers](https://arxiv.org/pdf/2210.07448.pdf)
+### 10. [Evaluating Out-of-Distribution Performance on Document Image Classifiers](https://arxiv.org/pdf/2210.07448.pdf)
 <u>Stefan Larson</u>, Gordon Lim, Yutong Ai, David Kuang, Kevin Leach<br>
 NeurIPS D&B 2022
 
-### 8. [Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset](https://aclanthology.org/2022.sigdial-1.45.pdf)
+### 11. [Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset](https://aclanthology.org/2022.sigdial-1.45.pdf)
 <u>Stefan Larson</u>, Kevin Leach<br>
 SIGDIAL 2022
 
-### 9. [Exploring Out-of-Distribution Generalization in Text Classifiers Trained on Tobacco-3482 and RVL-CDIP](https://arxiv.org/pdf/2108.02684.pdf)
+### 12. [Exploring Out-of-Distribution Generalization in Text Classifiers Trained on Tobacco-3482 and RVL-CDIP](https://arxiv.org/pdf/2108.02684.pdf)
 <u>Stefan Larson</u>, Navtej Singh, Saarthak Maheshwari, Shanti Stewart, Uma Krishnaswamy<br>
 Document Images and Language Workshop (DIL) at ICDAR 2021
 
-### 10. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://aclanthology.org/2021.eacl-main.222.pdf)
+### 13. [LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction](https://aclanthology.org/2021.eacl-main.222.pdf)
 Jacob Solawetz, <u>Stefan Larson</u><br>
 EACL 2021
 
-### 11. [Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods](https://aclanthology.org/2020.coling-main.442.pdf)
+### 14. [Inconsistencies in Crowdsourced Slot-Filling Annotations: A Typology and Identification Methods](https://aclanthology.org/2020.coling-main.442.pdf)
 <u>Stefan Larson</u>, Adrian Cheung, Anish Mahendran, Kevin Leach, Jonathan K. Kummerfeld<br>
 COLING 2020
 
-### 12. [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness](https://aclanthology.org/2020.emnlp-main.650.pdf)
+### 15. [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness](https://aclanthology.org/2020.emnlp-main.650.pdf)
 <u>Stefan Larson</u>, Anthony Zheng, Anish Mahendran, Rishi Tekriwal, Adrian Cheung, Eric Guldan, Kevin Leach, Jonathan K. Kummerfeld<br>
 EMNLP 2020
 
-### 13. [Data Query Language and Corpus Tools for Slot-Filling and Intent Classification Datasets](https://aclanthology.org/2020.lrec-1.873.pdf)
+### 16. [Data Query Language and Corpus Tools for Slot-Filling and Intent Classification Datasets](https://aclanthology.org/2020.lrec-1.873.pdf)
 <u>Stefan Larson</u>, Eric Guldan, Kevin Leach<br>
 LREC 2020
 
-### 14. [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://aclanthology.org/D19-1131.pdf)
+### 17. [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://aclanthology.org/D19-1131.pdf)
 <u>Stefan Larson</u>, Anish Mahendran, Joseph J. Peper, Christopher Clarke, Andrew Lee, Parker Hill, Kevin Leach, Jonathan K. Kummerfeld, Michael A. Laurenzano, Lingjia Tang, Jason Mars<br>
 EMNLP 2019
 
-### 15. [Outlier Detection for Improved Data Quality and Diversity in Dialog Systems](https://aclanthology.org/N19-1051.pdf)
+### 18. [Outlier Detection for Improved Data Quality and Diversity in Dialog Systems](https://aclanthology.org/N19-1051.pdf)
 <u>Stefan Larson</u>, Anish Mahendran, Andrew Lee, Jonathan K. Kummerfeld, Parker Hill, Michael A. Laurenzano, Johann Hauswald, Lingjia Tang, Jason Mars<br>
 NAACL 2019
+
+Preprints
+=====
+
+### 1. [ShabbyPages: A Reproducible Document Denoising and Binarization Dataset](https://arxiv.org/pdf/2303.09339.pdf)
+Alexander Groleau, Kok Wei Chee, <u>Stefan Larson</u>, Samay Maini, Jonathan Boarman<br>
+arXiv preprint, 2023
+
+### 2. [A Survey of Datasets for Intent Classification and Slot-Filling for Task-Oriented Dialog](https://arxiv.org/pdf/2207.13211.pdf)
+<u>Stefan Larson</u>, Kevin Leach<br>
+arXiv preprint, 2022
 
 Datasets
 =====
