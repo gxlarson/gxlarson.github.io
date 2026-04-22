@@ -23,11 +23,11 @@ Publications
 ======
 
 ### 1. [Towards Fair Pay and Equal Work: Imposing View Time Limits in Crowdsourced Image Classification](https://arxiv.org/pdf/2412.00260)
-Gordon Lim, <u>Stefan Larson</u>, Yu Huang, Kevin Leach
+Gordon Lim, <u>Stefan Larson</u>, Yu Huang, Kevin Leach<br>
 FLAIRS 2026
 
 ### 2. [Spurious Cues in RVL-CDIP and Tobacco3482 Document Classification: The Case of ID Codes](https://dl.acm.org/doi/pdf/10.1145/3704268.3748683?__cf_chl_tk=RYokQCfFwQ4OUOb0rEO.x6M.9n6tZhMK0UEU2fkMllk-1776818218-1.0.1.1-8Nsh2_Zj4kQmI83gzgNAX.4Cd9fyfbFeDoB_i6vEMEE)
-<u>Stefan Larson</u>, Sharad Duwal, Brian Vilnrotter, Gayatri Chakkithara, Vedant Pedwal, Kevin Leach
+<u>Stefan Larson</u>, Sharad Duwal, Brian Vilnrotter, Gayatri Chakkithara, Vedant Pedwal, Kevin Leach<br>
 ACM Symposium on Document Engineering (DocEng) 2025
 
 ### 3. [Document Type Classification using File Names](https://arxiv.org/pdf/2410.01166)
