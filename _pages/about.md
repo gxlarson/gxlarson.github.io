@@ -22,7 +22,7 @@ Education
 Publications
 ======
 
-### 1. [Towards Fair Pay and Equal Work: Imposing View Time Limits in Crowdsourced Image Classification](https://arxiv.org/pdf/2412.00260)
+### 1. [Towards Fair Pay and Equal Work: Imposing View Time Limits in Crowdsourced Image Classification](https://journals.flvc.org/FLAIRS/article/view/141795/146982)
 Gordon Lim, <u>Stefan Larson</u>, Yu Huang, Kevin Leach<br>
 FLAIRS 2026
 
