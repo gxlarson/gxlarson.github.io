@@ -12,12 +12,6 @@ Interests
 =====
 I believe an AI system can't be called "intelligent" unless it can correctly handle the multitude of ways in which human users can interact with it. The road to this point is a long one, and entails understanding where and when an AI system will fail, so that we can identify potential system mistakes before they happen. This entails developing methods for uncovering bias in both models and datasets, developing techniques to generate challenging test cases, developing algorithms to uncover annotation mistakes, developing better evaluation metrics, etc.
 
-Education
-=====
-#### PhD Computer Science - Vanderbilt University (ongoing)
-#### MSE Electrical and Computer Engineering - University of Michigan
-#### BSE Computer Engineering - University of Michigan
-<br>
 
 Publications
 ======
